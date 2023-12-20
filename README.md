@@ -24,7 +24,9 @@ when done print"File Copied Successfully"
 end the program
   
 
-## PROGRAM:#Program to copy the file.
+## PROGRAM:
+```
+'''
 #Developed by: VELLACHI TILAK
 #RegisterNumber:23009564
 '''
@@ -40,10 +42,12 @@ for s in texts:
     fileHandle.write(s)
 fileHandle.close()
 print("\nFile Copied Successfully!")
-### OUTPUT:
-![Screenshot 2023-12-21 004213](https://github.com/Thilak45/copy-file/assets/138849161/48fab12b-a4c4-4a6f-8d57-8ace35962072)
+```
 
-![Screenshot 2023-12-20 225749](https://github.com/Thilak45/copy-file/assets/138849161/babb4444-faab-48d1-9746-ab15923e2e28)
+### OUTPUT
+![Screenshot 2023-12-21 004213](https://github.com/Thilak45/copy-file/assets/138849161/b6d53ced-1297-4417-be83-c0a9d138b09d)
+
+![Screenshot 2023-12-20 225749](https://github.com/Thilak45/copy-file/assets/138849161/b2eaf28b-5462-4f5b-9179-dc355aa142d6)
 
 
 
